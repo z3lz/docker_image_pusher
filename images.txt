@@ -1,1 +1,1 @@
-pytorch/pytorch:2.6.0-cuda12.4-cudnn9-devel
+paddlecloud/paddleseg:2.6-gpu-cuda11.2-cudnn8-latest
