@@ -1,1 +1,1 @@
-paddlecloud/paddleseg:2.6-gpu-cuda11.2-cudnn8-latest
+gazebo:libgazebo11-focal
